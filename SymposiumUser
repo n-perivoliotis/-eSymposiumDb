@@ -1,0 +1,160 @@
+{
+	"_id": {
+		"$oid": "5c50c10a900a4469e8bee3bc"
+	},
+	"className": "com.perivoliotis.app.eSymposium.core.entities.SymposiumUser",
+	"symposiumUsername": "Alexis Tsipras",
+	"twitterUser": {
+		"username": "atsipras",
+		"profileName": "Alexis Tsipras",
+		"description": "Πρόεδρος του @syriza_gr και Πρωθυπουργός @PrimeministerGR. International account: @tsipras_eu",
+		"location": "Greece",
+		"dateAccountCreated": {
+			"$date": "2011-07-13T11:08:10.000Z"
+		},
+		"profilePictureUrl": "http://pbs.twimg.com/profile_images/905441272655204352/fi3ML5Ue_normal.jpg",
+		"backgroundPictureUrl": "https://pbs.twimg.com/profile_banners/334602996/1447346951/web",
+		"numOfTweets": 5580,
+		"follows": 173,
+		"followers": 521044,
+		"likes": 5
+	},
+	"facebookUser": {
+		"pageName": "Alexis Tsipras",
+		"username": "@tsiprasalexis",
+		"description": "Η προσωπική σελίδα του Αλέξη Τσίπρα, Πρωθυπουργού και Προέδρου του ΣΥΡΙΖΑ. I Official page of Alexis Tsipras, Prime Minister of Greece and President of SYRIZA",
+		"profilePictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-1/c75.19.198.198a/p320x320/21686136_10155803004828054_1721622073905212389_n.jpg?_nc_cat=1\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=7122164cb8e2c82e8ad4c955203473b2\u0026oe=5D007AD2",
+		"backgroundPictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t31.0-8/23674995_10155973945298054_1084528057698338347_o.jpg?_nc_cat=107\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=d7f0c9b44575afcc15ecd9a7a6d80e92\u0026oe=5CD39B5A"
+	},
+	"version": {
+		"$numberLong": "7"
+	}
+}
+{
+	"_id": {
+		"$oid": "5c50c10a900a4469e8bee3bd"
+	},
+	"className": "com.perivoliotis.app.eSymposium.core.entities.SymposiumUser",
+	"symposiumUsername": "CNN International",
+	"twitterUser": {
+		"username": "cnni",
+		"profileName": "CNN International",
+		"description": "Breaking news from around the world, plus business, style, travel, sport and entertainment. We #gothere.",
+		"location": "Everywhere",
+		"dateAccountCreated": {
+			"$date": "2007-03-24T10:48:14.000Z"
+		},
+		"profilePictureUrl": "http://pbs.twimg.com/profile_images/926050400062631936/Rvynw19f_normal.jpg",
+		"backgroundPictureUrl": "https://pbs.twimg.com/profile_banners/2097571/1497863018/web",
+		"numOfTweets": 183214,
+		"follows": 369,
+		"followers": 8272765,
+		"likes": 134
+	},
+	"facebookUser": {
+		"pageName": "CNN International",
+		"username": "@cnninternational",
+		"description": "CNN International provides news and information about the day's most talked about stories around the world. All times in Central European Time (CET), New York -6 / London -1 / Nairobi +2 / Dubai +3 / Hong Kong +7 / Sydney +10",
+		"profilePictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-1/p200x200/23172878_10155842574764641_2927983593261780757_n.jpg?_nc_cat=1\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=d90a73336c5d73707c94be1b37031dfe\u0026oe=5CC80099",
+		"backgroundPictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t31.0-8/17758612_10155158389949641_1611992620022153177_o.jpg?_nc_cat=108\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=62c5744b6da6b77a16d2220f7154f551\u0026oe=5D007EA8"
+	},
+	"version": {
+		"$numberLong": "7"
+	}
+}
+{
+	"_id": {
+		"$oid": "5c76e590900a441c35f59802"
+	},
+	"className": "com.perivoliotis.app.eSymposium.core.entities.SymposiumUser",
+	"symposiumUsername": "Financial Times",
+	"twitterUser": {
+		"username": "FinancialTimes",
+		"profileName": "Financial Times",
+		"description": "The best of FT journalism, including breaking news and insight",
+		"location": "London, UK",
+		"dateAccountCreated": {
+			"$date": "2007-04-16T16:54:19.000Z"
+		},
+		"profilePictureUrl": "http://pbs.twimg.com/profile_images/931161479398686721/FI3te2Sw_normal.jpg",
+		"backgroundPictureUrl": "https://pbs.twimg.com/profile_banners/4898091/1523880253/web",
+		"numOfTweets": 249061,
+		"follows": 839,
+		"followers": 6207859,
+		"likes": 24
+	},
+	"facebookUser": {
+		"pageName": "Financial Times",
+		"username": "@financialtimes",
+		"description": "The official Facebook page of the Financial Times.\nTwitter: www.twitter.com/ft/\nInstagram: https://www.instagram.com/financialtimes/\nLinkedIn: www.ft.com/linkedin",
+		"profilePictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-1/p200x200/26903879_10156045013405750_7949848350236136402_n.png?_nc_cat=1\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=bc9acc95939b588417479b2df77a9e67\u0026oe=5CE2D152",
+		"backgroundPictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/50663781_10156968082125750_1449284216649940992_o.jpg?_nc_cat=100\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=cf62d0c96768e4fb829b8c9c8e60a8ef\u0026oe=5D24030B"
+	},
+	"version": {
+		"$numberLong": "3"
+	}
+}
+{
+	"_id": {
+		"$oid": "5c76ea06900a4420d4ba1931"
+	},
+	"className": "com.perivoliotis.app.eSymposium.core.entities.SymposiumUser",
+	"symposiumUsername": "Giannis Antetokounmpo",
+	"twitterUser": {
+		"username": "Giannis_An34",
+		"profileName": "Giannis Antetokounmpo",
+		"description": "\"It's beauty in the struggle, ugliness in the success.\" 🇳🇬🇬🇷 Family-Loyalty-Legacy",
+		"location": "Milwaukee WI",
+		"dateAccountCreated": {
+			"$date": "2014-01-07T00:29:14.000Z"
+		},
+		"profilePictureUrl": "http://pbs.twimg.com/profile_images/906359745275158528/bK9abYnX_normal.jpg",
+		"backgroundPictureUrl": "https://pbs.twimg.com/profile_banners/2279776304/1444686532/web",
+		"numOfTweets": 1089,
+		"follows": 60,
+		"followers": 600492,
+		"likes": 2515
+	},
+	"facebookUser": {
+		"pageName": "Giannis Antetokounmpo",
+		"username": "@GreekFreakOfficial",
+		"description": "NBA Small forward playing for the Milwaukee Bucks. Add me on Instagram,Twitter ----\u003e Giannis_An34 SnapChat --\u003e G_ante34",
+		"profilePictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-1/p200x200/11811346_823417057778882_8478929045427319789_n.jpg?_nc_cat=110\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=ee287420b2363c9c1c56e4aae660e1e9\u0026oe=5CE111B5",
+		"backgroundPictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/12795459_939389412848312_1996865360858890673_n.jpg?_nc_cat=109\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=9cf4b071c1b28f207d65ab2aa613335b\u0026oe=5CE9B530"
+	},
+	"version": {
+		"$numberLong": "2"
+	}
+}
+{
+	"_id": {
+		"$oid": "5c76edf7900a4423f45882a0"
+	},
+	"className": "com.perivoliotis.app.eSymposium.core.entities.SymposiumUser",
+	"symposiumUsername": "Helena Paparizou",
+	"twitterUser": {
+		"username": "paparizouhelena",
+		"profileName": "Helena Paparizou",
+		"description": "#KatiSkoteino",
+		"location": "Athens, Greece",
+		"dateAccountCreated": {
+			"$date": "2010-02-19T12:23:11.000Z"
+		},
+		"profilePictureUrl": "http://pbs.twimg.com/profile_images/1051591872634867712/KoTNHbyF_normal.jpg",
+		"backgroundPictureUrl": "https://pbs.twimg.com/profile_banners/115650417/1538300685/web",
+		"numOfTweets": 2227,
+		"follows": 212,
+		"followers": 522149,
+		"likes": 1817
+	},
+	"facebookUser": {
+		"pageName": "Helena Paparizou",
+		"username": "@helenapaparizouofficial",
+		"description": "Helena Paparizou Official Page\nwww.helenapaparizouclub.gr\nwww.paparizouforum.com",
+		"profilePictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-1/c0.0.200.200a/p200x200/43952872_10160862286550034_7978231004512911360_n.jpg?_nc_cat=102\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=2deb2598c4582d9c0956df1639e6cf62\u0026oe=5D284EE7",
+		"backgroundPictureUrl": "https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/42846854_10160806967325034_2148466650049937408_o.jpg?_nc_cat=108\u0026_nc_ht=scontent.fath2-1.fna\u0026oh=373f740352c4b54a7840aeb1c2b0dde8\u0026oe=5D25C19C"
+	},
+	"version": {
+		"$numberLong": "1"
+	}
+}
