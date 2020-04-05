@@ -1,6 +1,6 @@
 # eSymposiumDb
 
-### Use the following commands to restore eSymposium database to the saved image below
+### Use the following commands to restore eSymposium database to the saved image above
 
 1. from project's root cd /backup
 2. $ mongoimport --db=eSymposiumDb --collection=UserPosts --file=UserPosts.json
